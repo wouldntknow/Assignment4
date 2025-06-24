@@ -1,2 +1,2 @@
 # Assignment4
-Quarter 3 python assignment 4 submissions
+These are Quarter 3 python assignment 4 submissions of governor initiative program for Agentic AI
